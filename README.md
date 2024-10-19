@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dem4h, 16 yo indie game dev and soon frontend developer.
+- 👋 Hi, I’m @Dem4h, 16 yo and aspiring frontend developer.
 - 👀 I’m interested in programming and video games
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on indie game / websites.
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on small websites.
 - 📫 You can contact me here : demah.contact@gmail.com
 - 😄 Pronouns: he/him
 
