@@ -13,12 +13,7 @@
 
 - 📩 demah.contact@gmail.com 👈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dem4h)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-- Pronouns: he/him
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dem4h&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Dem4h/Dem4h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
