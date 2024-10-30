@@ -10,7 +10,8 @@ Tailwind css| html |JavaScript| svelte.js
 - looking to collaborate on small websites.
 
 - 📫 You can contact me here : demah.contact@gmail.com
-- 😄 Pronouns: he/him
+
+- Pronouns: he/him
 
 <!---
 Dem4h/Dem4h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
