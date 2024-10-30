@@ -9,7 +9,7 @@ Tailwind css| html |JavaScript| svelte.js
 
 - looking to collaborate on small websites.
 
-- 📫 You can contact me here : demah.contact@gmail.com
+- demah.contact@gmail.com 👈
 
 - Pronouns: he/him
 
