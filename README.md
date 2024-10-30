@@ -1,15 +1,22 @@
-👋 Hi, I’m **Demah**, 16 yo student from France and aspiring **frontend developer**.
+### 👋 Hi, I’m **Demah**, 
+16 yo student from France 📍 and aspiring **frontend developer**.
 
-- I’m interested in **web development** and video games
+- I’m interested in **web development** and **video games**
 
-I use :
-Tailwind css| html |JavaScript| svelte.js
+### 💻 Tech I use :
+- HTML 
+- CSS
+- JavaScript
 
+### 🧠 Learning : 
+- Tailwind
+- svelte.js
+- TypeScript
 - Currently learning **TypeScript**
 
 - looking to collaborate on small websites.
 
-- demah.contact@gmail.com 👈
+- 📩 demah.contact@gmail.com 👈
 
 - Pronouns: he/him
 
