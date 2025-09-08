@@ -4,10 +4,10 @@
 - I’m interested in **web development** and **video games**
 
 ### 💻 Tech I use :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,linux,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,svelte)](https://skillicons.dev)
 
 ### 🧠 Learning : 
-[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,ts,golang)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,golang)](https://skillicons.dev)
 
 - looking to collaborate on small websites.
 
