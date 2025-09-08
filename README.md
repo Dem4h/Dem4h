@@ -1,7 +1,8 @@
 ### 👋 Hi, I’m **Demah**, 
 17 yo student from France 📍 and aspiring **frontend developer**.
 
-- I’m interested in **web development** and **video games**
+- I’m interested in **web development** and **video games** 
+- making web apps and pwa's 
 
 ### 💻 Tech I use :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,svelte)](https://skillicons.dev)
