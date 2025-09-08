@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m **Demah**, 
-16 yo student from France 📍 and aspiring **frontend developer**.
+17 yo student from France 📍 and aspiring **frontend developer**.
 
 - I’m interested in **web development** and **video games**
 
