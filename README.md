@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m **Demah**, 
-17 yo student from France 📍 and freelancing **frontend developer**.
+17 yo student from France 📍 and freelance **frontend developer**.
 
 - I’m interested in **web development** and **video games** 
 - making web apps and pwa's 
